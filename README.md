@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Walter Hampton. I'm 30 years old and a budding data analyst. I've been learning and doing projects 25 hours a week to learn more about data analytics and break into
+- 👋 Hi, I’m Walter Hampton. I'm 31 years old and a budding data analyst. I've been learning and doing projects 25 hours a week to learn more about data analytics and break into
 the career.
 
 - 👀 I’m interested in sports analytics and natural language processing. I speak English, German, French and Spanish and love to learn both about sports and languages. I also
