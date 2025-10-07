@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Walter Hampton  
+# 👋 Hi, I’m Walter Hampton III  
 
 🎓 I’m a 35-year-old Master’s student in **Machine Learning and Data Mining**, with a background in Mathematics and experience as a Data Analyst. I’m passionate about turning raw data into meaningful insights that drive decisions and innovation.  
 
